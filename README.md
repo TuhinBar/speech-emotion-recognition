@@ -19,6 +19,8 @@
 - **tqdm==4.28.1**
 - **matplotlib==2.2.3**
 - **pyaudio==0.2.11**
+- **FastAPI**
+- **uvicorn**
 - **[ffmpeg](https://ffmpeg.org/) (optional)**: used if you want to add more sample audio by converting to 16000Hz sample rate and mono channel which is provided in ``convert_wavs.py``
 
 Install these libraries by the following command:
