@@ -25,7 +25,6 @@ pip3 install -r requirements.txt
 ```
 
 ### Dataset
-This repository used 4 datasets (including this repo's custom dataset) which are downloaded and formatted already in `data` folder:
 - [**RAVDESS**](https://zenodo.org/record/1188976) : The **R**yson **A**udio-**V**isual **D**atabase of **E**motional **S**peech and **S**ong that contains 24 actors (12 male, 12 female), vocalizing two lexically-matched statements in a neutral North American accent.
 
 
