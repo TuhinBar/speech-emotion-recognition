@@ -47,7 +47,6 @@ In this repository, we have used the most used features that are available in [l
 ![Screenshot (222)](https://user-images.githubusercontent.com/85868593/202259653-b3ebe927-e775-4269-a9ac-b9cd428d2e96.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/85868593/202259736-44e04c8d-4d24-49c5-814b-461ef50f2675.png)
 ![ss224](https://user-images.githubusercontent.com/85868593/202259698-6a1e4a3b-9ccd-49c3-b7c4-5505c82c7d2f.png)
-![Screenshot (225)](https://user-images.githubusercontent.com/85868593/202260139-a639929f-85d1-457f-9e01-fb4ddc1167d2.png)
 
 - FastApi routes
 ![Screenshot (225)](https://user-images.githubusercontent.com/85868593/202260278-df2f1e54-45ec-4aae-9958-b1482069f400.png)
